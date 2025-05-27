@@ -1,3 +1,38 @@
+# ALPOS Vulnerability Management – Dashboar
+
+A dynamic and interactive **frontend dashboard** for the ALPOS Vulnerability Management System, built using the **Svelte Framework**. This web client allows users to monitor system status, manage users, trigger scans, and export vulnerability reports with ease.
+
+---
+
+## 📊 Key Features
+
+- **Real-Time Monitoring Dashboard:**  
+  Developed using **Svelte**, offering a responsive UI for tracking vulnerability scans and system status updates.
+
+- **Scheduled and On-Demand Scans:**  
+  Users can schedule automated scans or trigger scans manually, ensuring continuous and flexible security assessments.
+
+- **Export Reports (PDF/CSV):**  
+  Export scanning results for documentation or analysis, with download options in **PDF** or **CSV** formats.
+
+- **Email Notifications:**  
+  Automatic email alerts upon scan completion for faster incident awareness and response.
+
+- **User Management with Role-Based Access Control (RBAC):**  
+  Manage access and permissions across different user types with dedicated user interfaces and privileges.
+
+---
+
+## 📧 Contact
+
+For questions, suggestions, or collaborations, feel free to reach out:
+
+- **Email:** abdelhakbelah@gmail.com  
+- **LinkedIn:** [linkedin.com/in/abdelhak-belah](https://www.linkedin.com/in/abdelhak-belah)  
+- **GitHub:** [github.com/abdelhak-belah](https://github.com/abdelhak-belah)
+
+---
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
@@ -36,3 +71,11 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
+---
+
+## 📄 License
+
+This project is licensed under the [Apache License 2.0](LICENSE).
+
+---
